@@ -6,5 +6,5 @@ description: On this project, I was able to assist in the development and implem
 skills: 
 - Solidworks
 - Creo 
-main-image: /project.IMG_1784.HEIC
+main-image: /project.IMG_1784.jpg
 ---
