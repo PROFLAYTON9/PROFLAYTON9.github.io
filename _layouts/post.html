@@ -8,7 +8,7 @@ layout: wrapper
        
         {% assign folder_path = page.path | split: "/" | slice: 0, 2 | join: "/" %}
         {% assign image_path = "/" | append: folder_path | append: page['main-image'] %}       
-        <img class="shrinkToFit" src="{{ image_path }}" alt="{{ page.title }} image">
+        <img style="height: 100%; width: 100%; object-fit: contain" src="{{ image_path }}" alt="{{ page.title }} image">
         
         <div class="title-header">
             <h1>{{page.title}}</h1>
