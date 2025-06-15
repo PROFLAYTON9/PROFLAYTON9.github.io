@@ -5,5 +5,5 @@ description: On this project, I was able to personally handle the design, develo
 skills: 
 - Solidworks
 - Creo
-main-image: /project.IMG1784.png
+main-image: /IMG1784.png
 ---
