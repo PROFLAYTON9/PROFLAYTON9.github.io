@@ -7,4 +7,5 @@ skills:
 - Creo
 main-image: /IMG1784.jpg
 ---
-{% include image-gallery.html images="IMG1785.jpg" height="400" %} 
+{% include image-gallery.html images="IMG1785.jpg" height="400" %} {% include image-gallery.html images="IMG1783.jpg" height="400" %}
+<br>
