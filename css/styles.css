@@ -319,6 +319,7 @@ nav .mobile-nav {
     display: block;
     border-radius: 6px;
     margin-bottom: 10px; 
+    float: left
 }
 
 
